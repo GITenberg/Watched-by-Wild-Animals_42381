@@ -1,0 +1,36 @@
+_repo: Watched-by-Wild-Animals_42381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42381-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2013-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42381'
+  lccn: '22004371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+tableOfContents: 'The Rocky Mountain goat -- The haymaker of the heights -- Introducing
+  Mr. and Mrs. Skunk -- The persistent beaver -- The otter plays on -- The bighorn
+  in the snow -- The clown of the prairies -- The black bear: comedian -- On wild
+  life trails -- Rebuilding a beaver colony -- The wary wolf -- Winter ways of animals
+  -- Pronghorn of the plains -- The mountain lion -- Famine in Beaver-Land -- Dog-town
+  diggings -- Echo Mountain grizzly.'
+title: Watched by Wild Animals
+url: http://www.gutenberg.org/ebooks/42381
